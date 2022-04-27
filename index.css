@@ -13,3 +13,13 @@ main {
 #reset {
   margin: 20px;
 }
+
+.red-text {
+  color: red;
+  font-weight: bolder;
+}
+
+.bold-text {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
